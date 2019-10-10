@@ -2,9 +2,8 @@
 ## By Dwi Smaradahana Indraloka
 <br>
 ## This section consists of three folders:
-<br>
+
 ## 1. Question 1
-<br>
 Dataset: Annual Water Usage in Baltimore.
 <br>
 You can download it here https://drive.google.com/open?id=1axM3gfGxQq4T0wuwP51DVMQAecVFmpxL
