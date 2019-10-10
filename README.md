@@ -18,9 +18,7 @@ Objective: Create a python script for the Use Case below, please upload the scr
 <br>
 <br>
 Consists of 2 files:
-<br>
 1. ANNUAL WATER USAGE IN BALTIMORE: A python script to predict annual water usage in Baltimore.
-<br>
 2. water.csv: Dataset file
 <br>
 
