@@ -6,13 +6,19 @@ This section consists of three folders:
 <br>
 1. Question1
 <br>
-**Dataset** : Annual Water Usage in Baltimore.
+Dataset: Annual Water Usage in Baltimore.
 <br>
-You can download it here
-<br>
-https://drive.google.com/open?id=1axM3gfGxQq4T0wuwP51DVMQAecVFmpxL
+You can download it here https://drive.google.com/open?id=1axM3gfGxQq4T0wuwP51DVMQAecVFmpxL
 <br>
 The dataset is credited to Hipel an Mcleod, 1994.
+<br>
+
+<br>
+Background: The Dataset provides the annual water usage in Baltimore from 1885 to 1963, or 79 years of data. The values are in the units of liters per capita per day, and there are 79 observations.
+<br>
+Objective :  Create a python script for the Use Case below, please upload the script after you ﬁnish. The Problem is to predict annual water usage.
+<br>
+
 <br>
 Consists of 2 files:
 <br>
