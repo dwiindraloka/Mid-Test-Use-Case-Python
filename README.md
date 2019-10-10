@@ -35,10 +35,8 @@ Objective: Create a python script for the Use Case below, please upload the scr
 <br>
 <br>
 Consists of 2 files:
-<br>
 1. APARTMENT PRICE IN VICTORIA: A python script to predict apartment price in Victoria based on living
 area environment and apartment conservation status.
-<br>
 2. victoria.csv: Dataset file
 <br>
 
@@ -57,5 +55,4 @@ Objective : Create a python script that contains the script to answer the questi
 Consists of 2 files:
 <br>
 1. TITANIC DATASET: A python script to explore the titanic passenger data.
-<br>
 2. titanic.csv: Dataset file
