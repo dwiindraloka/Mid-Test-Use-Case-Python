@@ -27,7 +27,6 @@ Consists of 2 files:
 2. water.csv : Dataset file
 <br>
 
-<br>
 ## 2. Question 2
 Dataset: Apartment Price in Victoria.
 <br>
