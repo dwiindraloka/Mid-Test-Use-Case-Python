@@ -1,10 +1,9 @@
 # Mid-Test-Use-Case-Python
 ## By Dwi Smaradahana Indraloka
 <br>
+## This section consists of three folders:
 <br>
-This section consists of three folders:
-<br>
-1. Question1
+## 1. Question 1
 <br>
 Dataset: Annual Water Usage in Baltimore.
 <br>
@@ -16,6 +15,8 @@ The dataset is credited to Hipel an Mcleod, 1994.
 <br>
 Background: The Dataset provides the annual water usage in Baltimore from 1885 to 1963, or 79 years of data. The values are in the units of liters per capita per day, and there are 79 observations.
 <br>
+
+<br>
 Objective :  Create a python script for the Use Case below, please upload the script after you ﬁnish. The Problem is to predict annual water usage.
 <br>
 
@@ -26,8 +27,9 @@ Consists of 2 files:
 <br>
 2. water.csv : Dataset file
 <br>
+
 <br>
-2. Question2
+## 2. Question 2
 <br>
 Consists of 2 files:
 <br>
