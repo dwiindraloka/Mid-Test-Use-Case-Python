@@ -10,7 +10,6 @@ You can download it here https://drive.google.com/open?id=1axM3gfGxQq4T0wuwP51DV
 <br>
 The dataset is credited to Hipel an Mcleod, 1994.
 <br>
-
 <br>
 Background: The Dataset provides the annual water usage in Baltimore from 1885 to 1963, or 79 years of data. The values are in the units of liters per capita per day, and there are 79 observations.
 <br>
@@ -32,7 +31,6 @@ Dataset: Apartment Price in Victoria.
 <br>
 You can download it here. https://drive.google.com/open?id=1j8TdXtCnEQlqn2esDbiuPay01pDooS-w 
 <br>
-
 <br>
 Background : The Dataset provides living area and conservation status. There are 218 observations and 16 variables.
 <br>
