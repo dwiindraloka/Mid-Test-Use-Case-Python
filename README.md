@@ -53,6 +53,6 @@ Objective : Create a python script that contains the script to answer the questi
 <br>
 <br>
 Consists of 2 files:
-<br>
 1. TITANIC DATASET: A python script to explore the titanic passenger data.
 2. titanic.csv: Dataset file
+<br>
