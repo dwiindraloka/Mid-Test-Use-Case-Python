@@ -46,10 +46,10 @@ Dataset: Titanic dataset.
 You can download it here. https://drive.google.com/open?id=15IyT1ODuDKgZb8WN6iG64hFJRZWJTSAz
 <br>
 <br>
-Background : The dataset contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe diﬀerent attributes about the person including whether they survived (S), their age (A), their passenger-class (C), their sex (G) and the fare they paid (X). The table below shows the Data Dictionary.
+Background: The dataset contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe diﬀerent attributes about the person including whether they survived (S), their age (A), their passenger-class (C), their sex (G) and the fare they paid (X). The table below shows the Data Dictionary.
 <br>
 <br>
-Objective : Create a python script that contains the script to answer the questions below. Please put comments on the script to show which line of codes answers which questions. Please upload the script after you ﬁnish.
+Objective: Create a python script that contains the script to answer the questions below. Please put comments on the script to show which line of codes answers which questions. Please upload the script after you ﬁnish.
 <br>
 <br>
 Consists of 2 files:
