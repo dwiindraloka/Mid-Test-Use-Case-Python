@@ -1,6 +1,6 @@
 # Mid-Test-Use-Case-Python
 ## By Dwi Smaradahana Indraloka
-<br>
+
 ## This section consists of three folders:
 
 ## 1. Question 1
@@ -16,7 +16,7 @@ Background: The Dataset provides the annual water usage in Baltimore from 1885 t
 <br>
 
 <br>
-Objective :  Create a python script for the Use Case below, please upload the script after you ﬁnish. The Problem is to predict annual water usage.
+Objective: Create a python script for the Use Case below, please upload the script after you ﬁnish. The Problem is to predict annual water usage.
 <br>
 
 <br>
@@ -29,6 +29,19 @@ Consists of 2 files:
 
 <br>
 ## 2. Question 2
+Dataset: Apartment Price in Victoria.
+<br>
+You can download it here. https://drive.google.com/open?id=1j8TdXtCnEQlqn2esDbiuPay01pDooS-w 
+<br>
+
+<br>
+Background : The Dataset provides living area and conservation status. There are 218 observations and 16 variables.
+<br>
+
+<br>
+Objective : Create a python script for the Use Case below, please upload the script after you finish. The Problem is to predict annual water usage.
+<br>
+
 <br>
 Consists of 2 files:
 <br>
